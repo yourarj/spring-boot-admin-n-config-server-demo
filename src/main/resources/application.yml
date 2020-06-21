@@ -4,3 +4,8 @@ spring:
       server:
         git:
           uri:
+        prefix: "configs/"
+
+#  boot:
+#    admin:
+#      context-path: /admin
